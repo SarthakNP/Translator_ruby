@@ -1,13 +1,4 @@
-# Project 1b: Translator
-
-Due: February 15, 2023 at 11:59 PM (late February 16, *10% penalty*). 
-
-**Test Weightage:**
- - Public: 50%
- - Semipublic: 40%
- - Secret: 10%
-
-**This is an individual assignment. You must work on this project alone.**
+# Translator
 
 ## Introduction
 
